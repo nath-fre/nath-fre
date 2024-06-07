@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 | Tag | Description |
 | --- | --- |
-| [Tag 1](https://github.com/nath-free/F5/tags/Tag-1) | Brief description of Tag 1 |
+| [Tag 1](https://github.com/nath-fre/F5/tags/Tag-1) | Brief description of Tag 1 |
 | [Tag 2](https://github.com/nath-fre/myproject/tags/Tag-2) | Brief description of Tag 2 |
 | [Tag 3](https://github.com/nath-fre/myproject/tags/Tag-3) | Brief description of Tag 3 |
+# My Project
+## Tags
+[![Tag 1](https://img.shields.io/badge/Tag-1-blue.svg)](https://github.com/nath-fre/myproject/tags/Tag-1)
+[![Tag 2](https://img.shields.io/badge/Tag-2-green.svg)](https://github.com/nath-fre/myproject/tags/Tag-2)
+[![Tag 3](https://img.shields.io/badge/Tag-3-red.svg)](https://github.com/nath-fre/myproject/tags/Tag-3)
