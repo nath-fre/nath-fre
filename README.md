@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 # My Project
 ## Tags
-
+https://rahuldkjain.github.io/gh-profile-readme-generator/
 | Tag | Description |
 | --- | --- |
-| [Tag 1](https://github.com/nath-fre/F5/tags/Tag-1) | Brief description of Tag 1 |
-| [Tag 2](https://github.com/nath-fre/myproject/tags/Tag-2) | Brief description of Tag 2 |
-| [Tag 3](https://github.com/nath-fre/myproject/tags/Tag-3) | Brief description of Tag 3 |
+| [Python](https://github.com/nath-fre/F5/tags/Tag-1) | Ejercicios de Python |
+| [Mysql](https://github.com/nath-fre/myproject/tags/Tag-2) | Ejericicos de Mysql |
+| [STATS](https://github.com/nath-fre/myproject/tags/Tag-3) | Ejercicios de Maths |
 # My Project
 ## Tags
-[![Tag 1](https://img.shields.io/badge/Tag-1-blue.svg)](https://github.com/nath-fre/myproject/tags/Tag-1)
-[![Tag 2](https://img.shields.io/badge/Tag-2-green.svg)](https://github.com/nath-fre/myproject/tags/Tag-2)
-[![Tag 3](https://img.shields.io/badge/Tag-3-red.svg)](https://github.com/nath-fre/myproject/tags/Tag-3)
+[![Python](https://img.shields.io/badge/Python-blue.svg)](https://github.com/nath-fre/myproject/tags/Python)
+[![Mysql](https://img.shields.io/badge/Tag-2-green.svg)](https://github.com/nath-fre/myproject/tags/Tag-2)
+[![STATS](https://img.shields.io/badge/Tag-3-red.svg)](https://github.com/nath-fre/myproject/tags/Tag-3)
