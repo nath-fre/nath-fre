@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# My Project
+## Tags
+
+| Tag | Description |
+| --- | --- |
+| [Tag 1](https://github.com/nath-free/F5/tags/Tag-1) | Brief description of Tag 1 |
+| [Tag 2](https://github.com/nath-fre/myproject/tags/Tag-2) | Brief description of Tag 2 |
+| [Tag 3](https://github.com/nath-fre/myproject/tags/Tag-3) | Brief description of Tag 3 |
